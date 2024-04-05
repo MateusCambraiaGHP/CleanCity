@@ -26,6 +26,7 @@ Projeto de suspeta pra lavanderia/conservadoras
     
    - Verificar a possibilidade de ter uma identidade visual (não me parece bom, no maximo o icone branco de canto inicialmente)
 São necessário relatórios de todos esses dados mensalmente, tanto a conservadora quanto lavanderias precisam de graficos de gastos mensais
+- ambos tem um turnover mto grande (grande saida e entrada de funcionários), então é essencial um banco de curriculos e também filtrar muito bem os candidatos para ligações e agendamento de entrevista 
 
 
 
